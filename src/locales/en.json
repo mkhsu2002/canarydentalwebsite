@@ -1,0 +1,51 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "implants": "Implants",
+    "ortho": "Ortho",
+    "cdcp": "CDCP",
+    "contact": "Contact",
+    "gallery": "Smile Gallery"
+  },
+  "hero": {
+    "title1": "Precision Care—",
+    "title2": "All in One Place",
+    "subtitle": "Your trusted family dentist in Surrey, BC. Providing comfortable and stress-free dental experiences for all ages.",
+    "cta": "Request Appointment"
+  },
+  "services": {
+    "title": "Our Services",
+    "exam": {
+      "title": "Exam & Cleaning",
+      "desc": "Comprehensive dental check-ups and professional scaling to keep your smile healthy."
+    },
+    "restorative": {
+      "title": "Restorative Dentistry",
+      "desc": "Fillings, crowns, bridges, and dentures to restore function and aesthetics."
+    },
+    "cosmetic": {
+      "title": "Cosmetic Dentistry",
+      "desc": "Teeth whitening and aesthetic improvements for a confident smile."
+    },
+    "implants": {
+      "title": "Dental Implants",
+      "desc": "Permanent tooth replacement solutions using advanced Straumann systems."
+    },
+    "ortho": {
+      "title": "Orthodontics",
+      "desc": "Invisalign and traditional braces for children and adults."
+    },
+    "surgery": {
+      "title": "Oral Surgery",
+      "desc": "Expert wisdom teeth removal and bone grafting procedures."
+    }
+  },
+  "footer": {
+    "hours": "Office Hours",
+    "location": "Location",
+    "contact": "Contact Us",
+    "rights": "All rights reserved."
+  }
+}

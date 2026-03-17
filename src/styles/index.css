@@ -1,0 +1,27 @@
+:root {
+  --bg-primary: #F1EDE4;
+  --text-primary: #4A3E39;
+  --accent-primary: #D9A05B;
+  --white: #FFFFFF;
+  --font-main: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-main);
+  line-height: 1.6;
+}
+
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
